@@ -1,0 +1,10 @@
+mkdir
+git init
+ls
+touch raji.txt
+git status
+git add 
+git status
+git commit -m "my initial text file"
+git status
+git branch branch_name
